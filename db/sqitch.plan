@@ -1,5 +1,5 @@
 %syntax-version=1.0.0
-%project=spidertutorial
+%project=spidertutorial-tommyt
 %uri=https://github.com/tommy-thomas/hapi-rest-demo.git
 
 init 2016-06-13T16:05:29Z SpiderTutorial <SpiderTutorial@outlook.com> # Initialize the dellstore2 database

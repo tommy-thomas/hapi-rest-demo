@@ -1,4 +1,4 @@
--- Revert spidertutorial:product-add-comments from pg
+-- Revert spidertutorial-tommyt:product-add-comments from pg
 
 BEGIN;
 

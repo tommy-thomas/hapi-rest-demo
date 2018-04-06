@@ -1,4 +1,4 @@
--- Verify spidertutorial:product-add-comments on pg
+-- Verify spidertutorial-tommyt:product-add-comments on pg
 
 BEGIN;
 
